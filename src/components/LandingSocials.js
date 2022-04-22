@@ -17,7 +17,7 @@ const TwitterIcon = ({ style }) => {
 const Socials = [
   {
     title: 'Twitter',
-    link:  'https://twitter.com/anetaBTC',
+    link:  'https://twitter.com/tosidrop',
     Icon:  TwitterIcon,
     description: (
       <>
@@ -45,16 +45,6 @@ const Socials = [
       </>
     ),
   },
-    {
-        title: 'Reddit',
-        link: 'https://www.reddit.com/r/anetaBTC/',
-        Icon:  require('../../static/img/reddit.svg').default,
-        description: (
-            <>
-                Enjoy the subreddit community.
-            </>
-        ),
-    },
 ];
 
 function Guide({Icon, title, description, link}) {
