@@ -31,7 +31,7 @@ const Socials = [
     Icon:  require('../../static/img/telegram.svg').default,
     description: (
       <>
-          Engage with anetaBTC community and get more information about our protocol.
+          Engage with TosiDrop community and get more information about our protocol.
       </>
     ),
   },
