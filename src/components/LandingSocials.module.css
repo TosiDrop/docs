@@ -10,7 +10,7 @@
 @media (min-width: 668px) {
     .socials {
         grid-template-rows: 1fr;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
     }
 }
 

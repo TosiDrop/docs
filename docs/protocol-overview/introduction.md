@@ -4,5 +4,12 @@ sidebar_position: 1
 ---
 # Introduction
 
-AnetaBTC is a research-driven protocol. The birth of AnetaBTC is the combination of concepts from research papers including, but not limited to, Bitcoin, wBTC, [REN](https://renproject.io/), [Ergo](https://ergoplatform.org/), and [Interlay](https://Interlay.io). The key part of our approach is writing smart contracts that send Bitcoin to a vault if a user wants to mint anetaBTC. Upon minting, users will be able to freely use anetaBTC as a Bitcoin-backed asset on the Ergo and Cardano blockchains.
+TosiDrop is a multifaceted distribution platform on both Cardano and Ergo. There are 3 different ways to distribute tokens on TosiDrop.
+
+On Cardano, projects can distribute tokens on TosiDrop by allowing community members to claim the tokens, by sending ADA to an address and receiving tokens in return, or, projects can directly mass airdrop tokens to their community members. Projects may choose to distribute their tokens in these two different ways depending upon their situation and the purpose of the airdrop. 
+
+On Ergo, projects can directly airdrop their community platform tokens. 
+
+These various methods of distributing tokens to community members allow for a flexible and fair distribution process which is intended to increase decentralization and ultimately provide more value to the community. 
+
 

@@ -6,20 +6,29 @@ import ExternalArrow from '../../static/img/external-arrow.svg'
 
 const Guides = [
     {
-        title: 'About anetaBTC',
-        link: 'docs/about-anetabtc',
+        title: 'About TosiDrop',
+        link: 'docs/about-tosidrop',
         description: (
             <>
-                Learn about anetaBTC, an on-chain wrapped protocol on Ergo and Cardano. Learn about our mission and key principles.
+                Learn about TosiDrop, a seamless token distribution platform on Cardano and Ergo. Learn about our mission and key principles.
             </>
         ),
+    },{
+        title: 'User Guides',
+        link: 'docs/user-guides',
+        description: (
+            <>
+		Learn how to claim tokens on TosiDrop or how to distribute your token on our platform. 
+
+            </>
+        )
     },
     {
         title: 'Protocol Overview',
         link: 'docs/protocol-overview',
         description: (
             <>
-            Dive into the architecture of the protocol. What are wrapped assets, and how do we keep them decentralized on Ergo as opposed to other wrapped BTC models.
+            Learn about the architecture of the TosiDrop platform.
             </>
         )
     }

@@ -7,7 +7,7 @@ import ExternalArrow from '../../static/img/external-arrow.svg'
 const Guides = [
   {
     title: 'About TosiDrop',
-    link:  '/docs/about-anetabtc/Introduction',
+    link:  '/docs/about-tosidrop/Introduction',
     description: (
       <>
         Learn about TosiDrop, a seamless token distribution platform on Cardano and Ergo. Learn about our mission and key principles.
@@ -16,7 +16,7 @@ const Guides = [
   },
   {
     title: 'User Guides',
-    link:  '/docs/user-guides/Liso/liso-home',
+    link:  '/docs/user-guides/how-does-it-work',
     description: (
       <>
         Learn how to claim tokens on TosiDrop or how to distribute your token on our platform.
