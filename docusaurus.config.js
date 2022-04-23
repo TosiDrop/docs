@@ -104,7 +104,7 @@ const config = {
             ],
           },
         ],
-        copyright: `anetaBTC is a Singapore-based DAO.`,
+        copyright: `TosiDrop is a Singapore-based DAO.`,
         // ${new Date().getFullYear()}
       },
       prism: {
