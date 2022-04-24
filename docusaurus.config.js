@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TosiDrop',
   tagline: 'Token Distribution Platform on Ergo & Cardano.',
-  url: 'https://anetabtc.github.io',
+  url: 'https://docs.tosidrop.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/tosi.png',
   organizationName: 'TosiDrop',
-  projectName: 'anetabtc-documentation',
+  projectName: 'tosi-documentation',
   // trailingSlash: false,
 
   presets: [
@@ -25,12 +25,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
 
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/github.com/TosiDrop/tosi-documentation/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/anetaBTC',
+            'https://github.com/github.com/TosiDrop/tosi-documentation/edit/main/docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -45,12 +45,12 @@ const config = {
       navbar: {
         title: 'TosiDrop',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'TosiDrop Logo',
           src: 'img/tosi.png',
         },
         items: [
           {
-            href: 'https://github.com/anetaBTC',
+            href: 'https://github.com/TosiDrop',
             label: 'GitHub',
             position: 'right',
           },
@@ -86,7 +86,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/anetaBTC',
+                href: 'https://twitter.com/TosiDrop',
               },
             ],
           },
@@ -95,11 +95,11 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/anetaBTC',
+                href: 'https://github.com/TosiDrop
               },
               {
                 label: 'Website', 
-                href: 'https://anetabtc.io'
+                href: 'https://tosidrop.io'
               },
             ],
           },
