@@ -25,12 +25,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
 
-          editUrl: 'https://github.com/TosiDrop/tosi-documentation/edit/main/docs/',
+          editUrl: 'https://github.com/TosiDrop/tosi-documentation/edit/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/TosiDrop/tosi-documentation/edit/main/docs/',
+            'https://github.com/TosiDrop/tosi-documentation/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
