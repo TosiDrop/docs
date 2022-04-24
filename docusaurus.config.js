@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/TosiDrop
+                href: 'https://github.com/TosiDrop'
               },
               {
                 label: 'Website', 
