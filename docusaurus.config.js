@@ -82,7 +82,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discord.gg/anetaBTC',
+                href: 'https://discord.gg/C32Mm3j4fG',
               },
               {
                 label: 'Twitter',
