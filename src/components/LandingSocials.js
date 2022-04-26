@@ -27,7 +27,7 @@ const Socials = [
   },
   {
     title: 'Telegram',
-    link: 'https://t.me/anetaBTC',
+    link: 'https://t.me/+FdDUmLsW8jI0YmUx',
     Icon:  require('../../static/img/telegram.svg').default,
     description: (
       <>
@@ -37,7 +37,7 @@ const Socials = [
   },
   {
     title: 'Discord',
-    link: 'https://discord.gg/anetabtc',
+    link: 'https://discord.gg/C32Mm3j4fG',
     Icon:  require('../../static/img/discord.svg').default,
     description: (
       <>
