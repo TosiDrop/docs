@@ -78,7 +78,7 @@ const config = {
             items: [
               {
                 label: 'Medium',
-                href: 'https://medium.com/@anetaBTC',
+                href: 'https://medium.com/@tosidrop',
               },
               {
                 label: 'Discord',
