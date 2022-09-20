@@ -5,5 +5,5 @@ sidebar_position: 3
 
 # How can I add my pool or token project?
 
-We’ll soon announce how tokens can be distributed on our platform. 
+We’ll soon announce how tokens can be distributed on our platform. In the meantime, projects can message @TosiDrop on our official Twitter account. 
 
