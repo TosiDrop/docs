@@ -5,4 +5,6 @@ sidebar_position: 2
 
 # How much does it cost? 
 
-There is a service fee (0.5₳) deducted from the withdrawal deposit, that goes to TosiDrop revenue. There is also a fee of 0.1₳ that goes to Seal Pool, who developed the backend. Final transaction cost depends on the rewards being claimed. If the pool is distributing ADA and the delegate accumulated more than min UTXO size + min TX fee (~1.4ADA) then the withdrawal cost is only the service fee + TX fees (~0.36 ₳). In case there isn't enough ADA accumulated, but there are some tokens available that the delegate wants to withdraw, they still have the option to do it, but they need to cover the transaction fees by sending a UTXO deposit to TosiDrop. Tokens and most of ADA will be returned back to them.
+For premium tokens, there is a service fee 0.5₳ that goes toward TosiDrop revenue. There is also a fee of 0.1₳ that goes to Seal Pool, who developed the backend. Typically, TosiDrop will require the user to send 2.4₳, and you will receive ~1.53₳ back. The other fees (~0.3₳) come from the Cardano network.
+
+For non-premium tokens, there is no 0.5₳ service fee. This means TosiDrop will require the user to send 1.9₳, and you will receive ~1.53₳ back. The other fees (~0.3₳) come from the Cardano network.
