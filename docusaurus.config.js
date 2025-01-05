@@ -104,7 +104,7 @@ const config = {
             ],
           },
         ],
-        copyright: `TosiDrop is a Singapore-based DAO.`,
+        copyright: `TosiDrop 2025`,
         // ${new Date().getFullYear()}
       },
       prism: {
