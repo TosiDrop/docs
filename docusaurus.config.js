@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TosiDrop',
   tagline: 'Token Distribution Platform on Ergo & Cardano.',
-  url: 'https://docs.tosidrop.io',
+  url: 'https://docs.tosidrop.me',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -99,7 +99,7 @@ const config = {
               },
               {
                 label: 'Website', 
-                href: 'https://tosidrop.io'
+                href: 'https://tosidrop.me'
               },
             ],
           },
